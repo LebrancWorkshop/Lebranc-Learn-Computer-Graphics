@@ -87,6 +87,8 @@ This is a repository for learning the topics of Computer Graphics and Related To
 
 ### [Light](https://en.wikipedia.org/wiki/Light)
 
+- [[TH: Video Playlist] แสงเชิงรังสี (INK Lab)](https://www.youtube.com/playlist?list=PLSdxlgp7CC2TZALWtwzl4UrDx2Hn31cOY)
+- [[TH: Video Playlist] แสงเชิงคลื่น (INK Lab)](https://www.youtube.com/playlist?list=PLSdxlgp7CC2Rzk8cCNa1iIL-0c5-9hgRt)
 - [[TH: Video] แสงเชิงรังสี | ติวตรงจุด ปูพื้นฐานฟิสิกส์ 20 บท By พี่ตั้ว Physics Blueprint (Physics Blueprint)](https://www.youtube.com/watch?v=gxOeFrJVvWQ)
 - [[TH: Video] แสงเชิงคลื่น | ติวตรงจุด ปูพื้นฐานฟิสิกส์ 20 บท By พี่ตั้ว Physics Blueprint (Physics Blueprint)](https://www.youtube.com/watch?v=a0izXgPfHsQ)
 - [[TH: Video] สอนศาสตร์ : ฟิสิกส์ ม.ปลาย : แสง l พี่โหน่ง OnDemand (TruePlookpanya Channel)](https://www.youtube.com/watch?v=1AX0h9dZChU)
@@ -120,6 +122,8 @@ This is a repository for learning the topics of Computer Graphics and Related To
 ## Research
 
 ### Siggraph
+
+### Two Minutes Paper
 
 ## Additional Topics
 
