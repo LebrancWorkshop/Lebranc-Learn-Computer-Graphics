@@ -134,7 +134,7 @@ This is a repository for learning the topics of Computer Graphics and Related To
 - [[EN: Video] How do games render their scenes? | Bitwise (DigiDigger)](https://www.youtube.com/watch?v=Oct4Oi-KfVQ)
 - [[EN: Video] Why video games are made of tiny triangles (Vox)](https://www.youtube.com/watch?v=U93RImC-by4)
 
-### Rasterization
+### [Rasterization](https://en.wikipedia.org/wiki/Rasterisation)
 
 - [[EN: Video] How Real Time Computer Graphics and Rasterization work (FloatyMonkey)](https://www.youtube.com/watch?v=brDJVEPOeY8)
 - [[EN: Video] The Math Behind Font Rasterization (GamesWithGabe)](https://www.youtube.com/watch?v=LaYPoMPRSlk)
@@ -142,8 +142,11 @@ This is a repository for learning the topics of Computer Graphics and Related To
 - [[EN: Video] Rasterization | 3D Graphics Overview (Geoffrey Datema)](https://www.youtube.com/watch?v=htSGrJJOtAk)
 - [[EN: Video] Triangle Rasterization (pikuma)](https://www.youtube.com/watch?v=k5wtuKWmV48)
 
-### Ray-Tracing
+### [Ray Tracing](https://en.wikipedia.org/wiki/Ray_tracing_(graphics))
 
+- [[EN: Text] Ray Tracing in One Weekend (Peter Shirley, Trevor David Black, Steve Hollasch)](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
+- [[EN: Text] Ray Tracing: The Next Week (Peter Shirley, Trevor David Black, Steve Hollasch)](https://raytracing.github.io/books/RayTracingTheNextWeek.html)
+- [[EN: Text] Ray Tracing: The Rest of Your Life (Peter Shirley, Trevor David Black, Steve Hollasch)](https://raytracing.github.io/books/RayTracingTheRestOfYourLife.html)
 - [[EN: Video Playlist] Ray Tracing (The Cherno)](https://www.youtube.com/playlist?list=PLlrATfBNZ98edc5GshdBtREv5asFW3yXl)
 - [[EN: Video] What is Ray Tracing (Techquickie)](https://www.youtube.com/watch?v=0FMlPUEAZfs)
 - [[EN: Video] Raytracing Explained (Elbert With An E)](https://www.youtube.com/watch?v=oCsgTrGLDiI)
