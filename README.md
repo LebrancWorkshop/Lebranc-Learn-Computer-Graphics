@@ -44,6 +44,14 @@ This is a repository for learning the topics of Computer Graphics and Related To
 
 ### [Conic Section](https://en.wikipedia.org/wiki/Conic_section)
 
+- [[TH: Video Playlist] ภาคตัดกรวย ม.4 (OrendaTutor)](https://www.youtube.com/playlist?list=PLbyZhbTzHPawKH4auhn3JRgyiWY-T6SkF)
+- [[TH: Video Playlist] ภาคตัดกรวย ม.4 - แบบฝึกหัด (OrendaTutor)](https://www.youtube.com/playlist?list=PLbyZhbTzHPaxNmeNPKL-SdfNeqqAcy5Qs)
+- [[TH: Video] Live สรุป เรื่อง ภาคตัดกรวย | คณิต ม.4 (พ่อบ้านติวคณิต)](https://www.youtube.com/watch?v=jLSYpKhrciQ)
+- [[EN: Video Playlist] Conic Sections (Prof D)](https://www.youtube.com/playlist?list=PLFG5lKeDCYPnlGpilC-WihMf963w3hWYQ)
+- [[EN: Video Playlist] Conic Section (Mathsmerizing)](https://www.youtube.com/playlist?list=PLoetsRqdeRZltxh7357mGgcUfVRLpqpjM)
+- [[EN: Video] Conic Sections - Basic Introduction (The Organic Chemistry)](https://www.youtube.com/watch?v=YWHyovdHqkg)
+- [[EN: Video] Conic Sections - Circles, Ellipses, Parabolas, Hyperbola - How To Graph & Write In Standard Form (The Organic Chemistry)](https://www.youtube.com/watch?v=PLrgwD9TleU)
+
 ### [Algebraic Geometry](https://en.wikipedia.org/wiki/Algebraic_geometry)
 
 - [[EN: Video Playlist] Commutative Algebra and Algebraic Geometry (Uppsala Algebra)](https://www.youtube.com/playlist?list=PLn6dA-hP_G8SR-v8EV5m9vcpo-V9No-2V)
