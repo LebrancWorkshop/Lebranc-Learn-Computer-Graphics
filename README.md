@@ -136,6 +136,7 @@ This is a repository for learning the topics of Computer Graphics and Related To
 - [[EN: Video] The Math Behind Font Rasterization (GamesWithGabe)](https://www.youtube.com/watch?v=LaYPoMPRSlk)
 - [[EN: Video] Rasterizer Algorithm Explaination (HuCE - cpvrLab)](https://www.youtube.com/watch?v=t7Ztio8cwqM)
 - [[EN: Video] Rasterization | 3D Graphics Overview (Geoffrey Datema)](https://www.youtube.com/watch?v=htSGrJJOtAk)
+- [[EN: Video] Triangle Rasterization (pikuma)](https://www.youtube.com/watch?v=k5wtuKWmV48)
 
 ### Ray-Tracing
 
@@ -177,7 +178,9 @@ This is a repository for learning the topics of Computer Graphics and Related To
 
 - [[EN: Video Playlist] OpenGL (The Cherno)](https://www.youtube.com/playlist?list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2)
 
-### Library: Vulkan
+### Library: Vulkan (C++)
+
+- [[EN: Video Playlist] Vulkan (C++) Game Engine Tutorials (Brendan Galea)](https://www.youtube.com/playlist?list=PL8327DO66nu9qYVKLDmdLW_84-yE4auCR)
 
 ### Library: Metal
 
