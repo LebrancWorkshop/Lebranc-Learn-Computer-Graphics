@@ -84,3 +84,5 @@ This is a repository for learning the topics of Computer Graphics and Related To
 ## Additional Topics
 
 ### Game Development
+
+### Virtual Reality (VR), Augmented Reality (AR), Mixed Reality (MR), and eXtended Reality (XR)
