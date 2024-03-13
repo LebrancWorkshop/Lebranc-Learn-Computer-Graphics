@@ -9,6 +9,8 @@ This is a repository for learning the topics of Computer Graphics and Related To
 ### Linear Algebra
 
 - [[Video Playlist] Linear Algebra Playlist (Lebranc Convas)](https://www.youtube.com/playlist?list=PLaA8NIuqRmKH9maYY2gcrmh_Kv4IOVlIK)
+- [[TH: Video Playlist] [TUENONG] เมทริกซ์ การดำเนินการของเมทริกซ์ (TUENONG)](https://www.youtube.com/playlist?list=PLChxDsTTTsVRXfqUn4DEY-xH27iaVRyBY)
+- [[TH: Video Playlist] [TUENONG] เวกเตอร์ และสมบัติของเวกเตอร์ (TUENONG)](https://www.youtube.com/playlist?list=PLChxDsTTTsVTkkqm9X7reUJgHwP1_hbuW)
 - [[EN: Video Playlist] Essence of Linear Algebra (3Blue1Brown)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [[EN: Video Playlist] Linear Algebra (Professor Dave Explains)](https://www.youtube.com/playlist?list=PLybg94GvOJ9En46TNCXL2n6SiqRc_iMB8)
 - [[EN: Video Playlist] Linear Algebra (Entire Course) (Kimberly Brehm)](https://www.youtube.com/playlist?list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK)
@@ -20,6 +22,12 @@ This is a repository for learning the topics of Computer Graphics and Related To
 
 ### Basic Geometry
 
+- [[TH: Video Playlist] [TUENONG] พื้นที่ และ ปริมาตร ม.ต้น (TUENONG)](https://www.youtube.com/playlist?list=PLChxDsTTTsVSD8PUrV_0MYLPqEnN2uGLN)
+- [[TH: Video] สรุปสูตร 11 สูตรพื้นที่ สี่เหลี่ยม สามเหลี่ยม วงกลม ไม่งงแน่นอน | TUENONG (TUENONG)](https://www.youtube.com/watch?v=8ER5qRRpyZs)
+- [[TH: Video] สรุป ทุกสูตร ปริมาตรและพื้นที่ผิว 10 สูตรใน 7 นาที ทั้ง ม.2 และ ม.3 | TUENONG (TUENONG)](https://www.youtube.com/watch?v=mZrplz8NoNY)
+- [[TH: Video] พื้นที่ผิวและปริมาตร ม.3 (พีระมิด กรวย และทรงกลม) | คณิตศาสตร์ by พี่ปั้น SmartMathPro (SmartMathPro)](https://www.youtube.com/watch?v=q-hWoIjgmqA)
+- [[TH: Video] [TUENONG] ส่วนประกอบ สมบัติ วงกลม ม.3 (TUENONG)](https://www.youtube.com/playlist?list=PLChxDsTTTsVSoQdggkJTj2UFS6EMkx5u-)
+
 ### Analytic Geometry
 
 - [[TH: Video Playlist] เรขาคณิตวิเคราะห์ ม.4 (OrendaTutor)](https://www.youtube.com/playlist?list=PLbyZhbTzHPayR8p1ilHYLD5YMMh_omHdT)
@@ -30,6 +38,9 @@ This is a repository for learning the topics of Computer Graphics and Related To
 - [[EN: Video] ANALYTIC GEOMETRY - The Basics (A Complilation) (The Maths Stack)](https://www.youtube.com/watch?v=FWcenZstTjw)
 
 ### Trigonometry
+
+- [[TH: Video Playlist] [TUENONG] ตรีโกณมิติ ม.3 (TUENONG)](https://www.youtube.com/playlist?list=PLChxDsTTTsVSIP1GAFNJUvdMcB8-To0uz)
+- [[TH: Video Playlist] [TUENONG] ตรีโกณมิติ วงกลมหนึ่งหน่วย ม.5 (TUENONG)](https://www.youtube.com/playlist?list=PLChxDsTTTsVQOICArvJnamsB8lvwAIVpt)
 
 ### Conic Section
 
