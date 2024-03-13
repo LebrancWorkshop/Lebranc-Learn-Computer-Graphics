@@ -48,6 +48,14 @@ This is a repository for learning the topics of Computer Graphics and Related To
 
 ### Differential Geometry
 
+- [[Video Playlist] Differential Geometry Playlist (Lebranc Convas)](https://www.youtube.com/playlist?list=PLaA8NIuqRmKE-4dBc1yKevTB3KQgoAGT2)
+- [[EN: Video Playlist] What is Differential Geometry? (What is Math?)](https://www.youtube.com/playlist?list=PLXo8Tdaw0czOWyRD-esa6mNajlPZnjHQs)
+- [[EN: Video Playlist] Differential Geometry (Insights into Mathematics)](https://www.youtube.com/playlist?list=PLIljB45xT85DWUiFYYGqJVtfnkUFWkKtP)
+- [[EN: Video Playlist] Differential Geometry (Math at Andrews University)](https://www.youtube.com/playlist?list=PLOROtRhtegr5KyS7JNUC3xRmWzUy1ojFO)
+- [[EN: Video Playlist] ICTP Diploma - Differential Geometry - Claudio Arezzo (ICTP Mathematics)](https://www.youtube.com/playlist?list=PLLq_gUfXAnkl5JArcktbOrIUeR5rra-Gz)
+- [[EN: Video Playlist] Differential Geometry (Undergradudate Mathematics)](https://www.youtube.com/playlist?list=PLoWHl5YajIf7NzvxmGH7ch6d6qDSCv4wj)
+- [[EN: Video Playlist] Introduction to Differential Geometry (Fakezord)](https://www.youtube.com/playlist?list=PLRtC1Xj57uWWJaUgjdo7p4WQS2OFpsiaK)
+
 ### Numerical Methods
 
 ### Mathematical Analysis and Calculus
