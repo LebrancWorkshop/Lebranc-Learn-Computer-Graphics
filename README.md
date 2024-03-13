@@ -46,6 +46,13 @@ This is a repository for learning the topics of Computer Graphics and Related To
 
 ### [Algebraic Geometry](https://en.wikipedia.org/wiki/Algebraic_geometry)
 
+- [[EN: Video Playlist] Commutative Algebra and Algebraic Geometry (Uppsala Algebra)](https://www.youtube.com/playlist?list=PLn6dA-hP_G8SR-v8EV5m9vcpo-V9No-2V)
+- [[EN: Video Playlist] Algebraic Geometry I: Varieties (Richard E Borcherds)](https://www.youtube.com/playlist?list=PL8yHsr3EFj53j51FG6wCbQKjBgpjKa5PX)
+- [[EN: Video Playlist] Algebraic Geometry II: Schemes (Richard E Borcherds)](https://www.youtube.com/playlist?list=PL8yHsr3EFj50Un2NpfPySgXctRQK7CLG-)
+- [[EN: Video Playlist] Mathematics - Basic Algebraic Geometry : Varieties, Morphisms, Local Rings, Function Fields and Nonsingularity (nptelhrd)](https://www.youtube.com/playlist?list=PLbMVogVj5nJSNj24jdPGivlJtxbxua2by)
+- [[EN: Video Playlist] 2020-2021 Algebraic Geometry (MTH-AG) (ICTP Postgraduate Diploma Programme)](https://www.youtube.com/playlist?list=PLp0hSY2uBeP_n6C_za-1aBDt2gdatXsDU)
+- [[EN: Video] What is algebraic geometry? (Aleph 0)](https://www.youtube.com/watch?v=MflpyJwhMhQ)
+
 ### [Differential Geometry](https://en.wikipedia.org/wiki/Differential_geometry)
 
 - [[Video Playlist] Differential Geometry Playlist (Lebranc Convas)](https://www.youtube.com/playlist?list=PLaA8NIuqRmKE-4dBc1yKevTB3KQgoAGT2)
