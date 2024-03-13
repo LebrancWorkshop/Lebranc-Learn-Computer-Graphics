@@ -113,7 +113,14 @@ This is a repository for learning the topics of Computer Graphics and Related To
 
 ### Basic Computer Graphics
 
+- [[EN: Video Playlist] Computer Graphics (CMU 15-462/662) (Keenan Crane)](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E)
+- [[EN: Video Playlist] Introduction to Computer Graphics (Cem Yuksel)](https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh)
+- [[EN: Video Playlist] Computer Graphics (Education 4u)](https://www.youtube.com/playlist?list=PLrjkTql3jnm9cY0ijEyr2fPdwnH-0t8EY)
+- [[EN: Video Playlist] 6.837: Introduction to Computer Graphics (fall 2020)](https://www.youtube.com/playlist?list=PLQ3UicqQtfNuBjzJ-KEWmG1yjiRMXYKhh)
+
 ### Rasterization
+
+- [[EN: Video] How Real Time Computer Graphics and Rasterization work (FloatyMonkey)](https://www.youtube.com/watch?v=brDJVEPOeY8)
 
 ### Ray-Tracing
 
