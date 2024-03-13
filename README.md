@@ -129,6 +129,7 @@ This is a repository for learning the topics of Computer Graphics and Related To
 - [[EN: Video Playlist] 3D Graphics (pikuma)](https://www.youtube.com/playlist?list=PLYnrabpSIM-97qGEeOWnxZBqvR_zwjWoo)
 - [[EN: Video] How do Video Game Graphics Work? (Branch Education)](https://www.youtube.com/watch?v=C8YtdC8mxTU)
 - [[EN: Video] How Rendering Graphics Works in Games! (TheHappieCat)](https://www.youtube.com/watch?v=cvcAjgMUPUA)
+- [[EN: Video] How do games render their scenes? | Bitwise (DigiDigger)](https://www.youtube.com/watch?v=Oct4Oi-KfVQ)
 
 ### Rasterization
 
@@ -162,6 +163,7 @@ This is a repository for learning the topics of Computer Graphics and Related To
 - [[EN: Video Playlist] C++ Programming (Neso Academy)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRh6isJ01MBnbNpV3ZsktSyS)
 - [[EN: Video Playlist] C++ (The Cherno)](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
 - [[EN: Video Playlist] C++ & Game Engines (pikuma)](https://www.youtube.com/playlist?list=PLYnrabpSIM--J2A1gsBmgjHfp9g9rb7vu)
+- [[EN: Video Playlist] C/C++ Math Library (Michael Grieco)](https://www.youtube.com/playlist?list=PLysLvOneEETMjrK5N-PLIYhZKwmxjGs2-)
 
 ### Programming Language: Python
 
@@ -180,6 +182,8 @@ This is a repository for learning the topics of Computer Graphics and Related To
 ### Library: OpenGL (C++)
 
 - [[EN: Video Playlist] OpenGL (The Cherno)](https://www.youtube.com/playlist?list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2)
+- [[EN: Video Playlist] OpenGL Tutorials (Victor Gordan)](https://www.youtube.com/playlist?list=PLPaoO-vpZnumdcb4tZc4x5Q-v7CkrQ6M-)
+- [[EN: Video Playlist] C++ OpenGL Tutorial (Michael Grieco)](https://www.youtube.com/playlist?list=PLysLvOneEETPlOI_PI4mJnocqIpr2cSHS)
 
 ### Library: Vulkan (C++)
 
