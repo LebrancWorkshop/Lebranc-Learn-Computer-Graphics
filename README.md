@@ -85,6 +85,12 @@ This is a repository for learning the topics of Computer Graphics and Related To
 
 ### [Basic Mechanics](https://en.wikipedia.org/wiki/Mechanics)
 
+- [[TH: Video Playlist] กลศาสตร์วิศวกรรม (หลักสูตรเร่งด่วน) (อ.จา ม.ศิลปากร)](https://www.youtube.com/playlist?list=PL2lvCdUHqjUiC3wxGXEFG1odw0dHGxrgr)
+- [[TH: Video Playlist] BSEN 211 กลศาสตร์วิศวกรรม 1 (Engineering Rajapark)](https://www.youtube.com/playlist?list=PL_3R4p8PzMMrM9LEaQ0QXjwrdgy5P9y6J)
+- [[TH: Video] IF Basic Tips s2 - 5 แผนที่ทั้งหมดของกลศาสตร์คลาสสิก (IF Channel)](https://www.youtube.com/watch?v=RoubIl9EXdk)
+- [[TH: Video] ติวฟรี แรงและกฎการเคลื่อนที่ (ฟิสิกส์ ม.4) | พี่ตั้ว Physics Blueprint (Physics Blueprint)](https://www.youtube.com/watch?v=YbnoI67iuu8)
+- [[TH: Video] การแตกแรง สรุปใน 10 นาที | ฟิสิกส์ ม.4 by ideal Physics (idealphysics)](https://www.youtube.com/watch?v=Sh_KGCCsR0g)
+
 ### [Light](https://en.wikipedia.org/wiki/Light)
 
 - [[TH: Video Playlist] แสงเชิงรังสี (INK Lab)](https://www.youtube.com/playlist?list=PLSdxlgp7CC2TZALWtwzl4UrDx2Hn31cOY)
@@ -92,6 +98,10 @@ This is a repository for learning the topics of Computer Graphics and Related To
 - [[TH: Video] แสงเชิงรังสี | ติวตรงจุด ปูพื้นฐานฟิสิกส์ 20 บท By พี่ตั้ว Physics Blueprint (Physics Blueprint)](https://www.youtube.com/watch?v=gxOeFrJVvWQ)
 - [[TH: Video] แสงเชิงคลื่น | ติวตรงจุด ปูพื้นฐานฟิสิกส์ 20 บท By พี่ตั้ว Physics Blueprint (Physics Blueprint)](https://www.youtube.com/watch?v=a0izXgPfHsQ)
 - [[TH: Video] สอนศาสตร์ : ฟิสิกส์ ม.ปลาย : แสง l พี่โหน่ง OnDemand (TruePlookpanya Channel)](https://www.youtube.com/watch?v=1AX0h9dZChU)
+- [[TH: Video] ชวน ม.5 ติว•ไฟท์•ไฟนอล กับฟิสิกส์ “แสงเชิงรังสี” บทจุกจิก สูตรไม่เยอะ! แต่ดีเทลเยอะมาก (PhysicsFarm เรียนฟิสิกส์กับพี่ฟาร์ม)](https://www.youtube.com/watch?v=cCVEdB8ZqEw)
+- [[EN: Video Playlist] Light (Najam Academy)](https://www.youtube.com/playlist?list=PL3GBdsS--0-Qo4WwBDUF6yAxdEQ7ZRgdn)
+- [[EN: Video Playlist] Optics and Light (Andrey K)](https://www.youtube.com/playlist?list=PL9jo2wQj1WCP2eeRb8UacmKJy850Y9DYQ)
+- [[EN: Video Playlist] Reflection and Refraction (khanacademymedicine)](https://www.youtube.com/playlist?list=PLbKSbFnKYVY22IZ_5EBVYndXvkC_cbs9s)
 
 ## Computer Science Concepts
 
