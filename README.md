@@ -22,6 +22,13 @@ This is a repository for learning the topics of Computer Graphics and Related To
 
 ### Analytic Geometry
 
+- [[TH: Video Playlist] เรขาคณิตวิเคราะห์ ม.4 (OrendaTutor)](https://www.youtube.com/playlist?list=PLbyZhbTzHPayR8p1ilHYLD5YMMh_omHdT)
+- [[TH: Video Playlist] เรขาคณิตวิเคราะห์ ม.4 - แบบฝึกหัด (OrendaTutor)](https://www.youtube.com/playlist?list=PLbyZhbTzHPax3Cwfdz4x_Gt6bqtfkZGqK)
+- [[TH: Video] สรุปเรขาคณิตวิเคราะห์ by Kru Mew (Mewduliza)](https://www.youtube.com/watch?v=BeGsSJAyBFk)
+- [[TH: Video] เรขาคณิตวิเคราะห์ | คณิต ม.4 (พ่อบ้านติวคณิต)](https://www.youtube.com/watch?v=Odp6hDXSXZE)
+- [[EN: Video Playlist] Analytic Geometry | Geometry | Khan Academy (Khan Academy)](https://www.youtube.com/playlist?list=PLSQl0a2vh4HB96cX311IfSJtiieZVN6p5)
+- [[EN: Video] ANALYTIC GEOMETRY - The Basics (A Complilation) (The Maths Stack)](https://www.youtube.com/watch?v=FWcenZstTjw)
+
 ### Trigonometry
 
 ### Conic Section
