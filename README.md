@@ -27,6 +27,8 @@ This is a repository for learning the topics of Computer Graphics and Related To
 - [[TH: Video] สรุป ทุกสูตร ปริมาตรและพื้นที่ผิว 10 สูตรใน 7 นาที ทั้ง ม.2 และ ม.3 | TUENONG (TUENONG)](https://www.youtube.com/watch?v=mZrplz8NoNY)
 - [[TH: Video] พื้นที่ผิวและปริมาตร ม.3 (พีระมิด กรวย และทรงกลม) | คณิตศาสตร์ by พี่ปั้น SmartMathPro (SmartMathPro)](https://www.youtube.com/watch?v=q-hWoIjgmqA)
 - [[TH: Video] [TUENONG] ส่วนประกอบ สมบัติ วงกลม ม.3 (TUENONG)](https://www.youtube.com/playlist?list=PLChxDsTTTsVSoQdggkJTj2UFS6EMkx5u-)
+- [[EN: Video Playlist] Geometry (Khan Academy)](https://www.youtube.com/playlist?list=PL26812DF9846578C3)
+- [[EN: Video Playlist] Geometry Video Playlist (The Organic Chemistry Tutor)](https://www.youtube.com/playlist?list=PL0o_zxa4K1BVkRxCZubMPcCJ5Q5QwZdEM)
 
 ### [Analytic Geometry](https://en.wikipedia.org/wiki/Analytic_geometry)
 
@@ -49,8 +51,8 @@ This is a repository for learning the topics of Computer Graphics and Related To
 - [[TH: Video] Live สรุป เรื่อง ภาคตัดกรวย | คณิต ม.4 (พ่อบ้านติวคณิต)](https://www.youtube.com/watch?v=jLSYpKhrciQ)
 - [[EN: Video Playlist] Conic Sections (Prof D)](https://www.youtube.com/playlist?list=PLFG5lKeDCYPnlGpilC-WihMf963w3hWYQ)
 - [[EN: Video Playlist] Conic Section (Mathsmerizing)](https://www.youtube.com/playlist?list=PLoetsRqdeRZltxh7357mGgcUfVRLpqpjM)
-- [[EN: Video] Conic Sections - Basic Introduction (The Organic Chemistry)](https://www.youtube.com/watch?v=YWHyovdHqkg)
-- [[EN: Video] Conic Sections - Circles, Ellipses, Parabolas, Hyperbola - How To Graph & Write In Standard Form (The Organic Chemistry)](https://www.youtube.com/watch?v=PLrgwD9TleU)
+- [[EN: Video] Conic Sections - Basic Introduction (The Organic Chemistry Tutor)](https://www.youtube.com/watch?v=YWHyovdHqkg)
+- [[EN: Video] Conic Sections - Circles, Ellipses, Parabolas, Hyperbola - How To Graph & Write In Standard Form (The Organic Chemistry Tutor)](https://www.youtube.com/watch?v=PLrgwD9TleU)
 
 ### [Algebraic Geometry](https://en.wikipedia.org/wiki/Algebraic_geometry)
 
