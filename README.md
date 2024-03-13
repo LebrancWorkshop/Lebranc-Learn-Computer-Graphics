@@ -19,6 +19,7 @@ This is a repository for learning the topics of Computer Graphics and Related To
 - [[EN: Video Playlist] MIT 18.06 Linear Algebra, Spring 2005 (MIT OpenCourseWare)](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
 - [[EN: Video Playlist] MIT 18.06SC Linear Algebra, Fall 2011 (MIT OpenCourseWare)](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
 - [[EN: Video Playlist] Linear Algebra (The Bright Side of Mathematics)](https://www.youtube.com/playlist?list=PLBh2i93oe2quLc5zaxD0WHzQTGrXMwAI6)
+- [[EN: Video] Why can't you multiply vectors? (Freya Holmér)](https://www.youtube.com/watch?v=htYh-Tq7ZBI)
 
 ### [Basic Geometry](https://en.wikipedia.org/wiki/Geometry)
 
@@ -122,6 +123,7 @@ This is a repository for learning the topics of Computer Graphics and Related To
 
 - [[EN: Video Playlist] Computer Graphics (CMU 15-462/662) (Keenan Crane)](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E)
 - [[EN: Video Playlist] Introduction to Computer Graphics (Cem Yuksel)](https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh)
+- [[EN: Video Playlist] Interactive Computer Graphics (Cem Yuksel)](https://www.youtube.com/playlist?list=PLplnkTzzqsZS3R5DjmCQsqupu43oS9CFN)
 - [[EN: Video Playlist] Computer Graphics (Education 4u)](https://www.youtube.com/playlist?list=PLrjkTql3jnm9cY0ijEyr2fPdwnH-0t8EY)
 - [[EN: Video Playlist] 6.837: Introduction to Computer Graphics (fall 2020)](https://www.youtube.com/playlist?list=PLQ3UicqQtfNuBjzJ-KEWmG1yjiRMXYKhh)
 - [[EN: Video Playlist] Graphics in 5 Minutes Class (Graphics in 5 Minute)](https://www.youtube.com/playlist?list=PLWfDJ5nla8UpwShx-lzLJqcp575fKpsSO)
@@ -130,6 +132,7 @@ This is a repository for learning the topics of Computer Graphics and Related To
 - [[EN: Video] How do Video Game Graphics Work? (Branch Education)](https://www.youtube.com/watch?v=C8YtdC8mxTU)
 - [[EN: Video] How Rendering Graphics Works in Games! (TheHappieCat)](https://www.youtube.com/watch?v=cvcAjgMUPUA)
 - [[EN: Video] How do games render their scenes? | Bitwise (DigiDigger)](https://www.youtube.com/watch?v=Oct4Oi-KfVQ)
+- [[EN: Video] Why video games are made of tiny triangles (Vox)](https://www.youtube.com/watch?v=U93RImC-by4)
 
 ### Rasterization
 
