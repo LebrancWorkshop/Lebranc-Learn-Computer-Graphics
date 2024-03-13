@@ -42,11 +42,11 @@ This is a repository for learning the topics of Computer Graphics and Related To
 - [[TH: Video Playlist] [TUENONG] ตรีโกณมิติ ม.3 (TUENONG)](https://www.youtube.com/playlist?list=PLChxDsTTTsVSIP1GAFNJUvdMcB8-To0uz)
 - [[TH: Video Playlist] [TUENONG] ตรีโกณมิติ วงกลมหนึ่งหน่วย ม.5 (TUENONG)](https://www.youtube.com/playlist?list=PLChxDsTTTsVQOICArvJnamsB8lvwAIVpt)
 
-### Conic Section
+### [Conic Section](https://en.wikipedia.org/wiki/Conic_section)
 
-### Algebraic Geometry
+### [Algebraic Geometry](https://en.wikipedia.org/wiki/Algebraic_geometry)
 
-### Differential Geometry
+### [Differential Geometry](https://en.wikipedia.org/wiki/Differential_geometry)
 
 - [[Video Playlist] Differential Geometry Playlist (Lebranc Convas)](https://www.youtube.com/playlist?list=PLaA8NIuqRmKE-4dBc1yKevTB3KQgoAGT2)
 - [[EN: Video Playlist] What is Differential Geometry? (What is Math?)](https://www.youtube.com/playlist?list=PLXo8Tdaw0czOWyRD-esa6mNajlPZnjHQs)
