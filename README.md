@@ -107,6 +107,7 @@ This is a repository for learning the topics of Computer Graphics and Related To
 
 ### Data Structure and Algorithm
 
+- [[EN: Learning Path] Data Structures & Algorithms (Google - Tech Dev Guide)](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
 - [[EN: Video Playlist] Data Structures (Neso Academy)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y)
 
 ### Computer Architecture and Organization
@@ -123,6 +124,7 @@ This is a repository for learning the topics of Computer Graphics and Related To
 - [[EN: Video Playlist] Introduction to Computer Graphics (Cem Yuksel)](https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh)
 - [[EN: Video Playlist] Computer Graphics (Education 4u)](https://www.youtube.com/playlist?list=PLrjkTql3jnm9cY0ijEyr2fPdwnH-0t8EY)
 - [[EN: Video Playlist] 6.837: Introduction to Computer Graphics (fall 2020)](https://www.youtube.com/playlist?list=PLQ3UicqQtfNuBjzJ-KEWmG1yjiRMXYKhh)
+- [[EN: Video Playlist] Graphics in 5 Minutes Class (Graphics in 5 Minute)](https://www.youtube.com/playlist?list=PLWfDJ5nla8UpwShx-lzLJqcp575fKpsSO)
 - [[EN: Video] How do Video Game Graphics Work? (Branch Education)](https://www.youtube.com/watch?v=C8YtdC8mxTU)
 
 ### Rasterization
@@ -131,6 +133,13 @@ This is a repository for learning the topics of Computer Graphics and Related To
 - [[EN: Video] The Math Behind Font Rasterization (GamesWithGabe)](https://www.youtube.com/watch?v=LaYPoMPRSlk)
 
 ### Ray-Tracing
+
+- [[EN: Video Playlist] Ray Tracing (The Cherno)](https://www.youtube.com/playlist?list=PLlrATfBNZ98edc5GshdBtREv5asFW3yXl)
+- [[EN: Video] What is Ray Tracing (Techquickie)](https://www.youtube.com/watch?v=0FMlPUEAZfs)
+- [[EN: Video] Raytracing Explained (Elbert With An E)](https://www.youtube.com/watch?v=oCsgTrGLDiI)
+- [[EN: Video] Ray Tracing in 5 minutes (Graphics in 5 Minutes)](https://www.youtube.com/watch?v=H5TB2l7zq6s)
+- [[EN: Video] Ray Tracing in 5 minutes: Part 2 -- implementing a basic ray tracer (Graphics in 5 Minutes)](https://www.youtube.com/watch?v=mTOllvinv-U)
+- [[EN: Video] Ray Tracing in 5 minutes: Part 3 -- recursive ray tracing (Graphics in 5 Minutes)](https://www.youtube.com/watch?v=tUh6gCx08LI)
 
 ### Light Transportation
 
@@ -154,6 +163,8 @@ This is a repository for learning the topics of Computer Graphics and Related To
 ### Library: Pygame (Python)
 
 ### Library: OpenGL (C++)
+
+- [[EN: Video Playlist] OpenGL (The Cherno)](https://www.youtube.com/playlist?list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2)
 
 ### Library: Vulkan
 
