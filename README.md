@@ -158,16 +158,19 @@ This is a repository for learning the topics of Computer Graphics and Related To
 
 ### Programming Langauge: C++
 
+- [[EN: Text] C++ Tutorial (Tutorialspoint)](https://www.tutorialspoint.com/cplusplus/index.htm)
 - [[EN: Video Playlist] C++ Programming (Neso Academy)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRh6isJ01MBnbNpV3ZsktSyS)
 - [[EN: Video Playlist] C++ (The Cherno)](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
 - [[EN: Video Playlist] C++ & Game Engines (pikuma)](https://www.youtube.com/playlist?list=PLYnrabpSIM--J2A1gsBmgjHfp9g9rb7vu)
 
 ### Programming Language: Python
 
+- [[EN: Text] Python Tutorial (Tutorialspoint)](https://www.tutorialspoint.com/python/index.htm)
 - [[EN: Video Playlist] Python Programming (Neso Academy)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiueC_HzwFallNO76hfXBB7)
 
 ### Programming Language: Java
 
+- [[EN: Text] Java Tutorial (Tutorialspoint)](https://www.tutorialspoint.com/java/index.htm)
 - [[EN: Video Playlist] Java Programming (Neso Academy)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5)
 
 ### Library: Swing (Java)
