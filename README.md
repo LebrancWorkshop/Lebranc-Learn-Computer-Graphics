@@ -125,12 +125,14 @@ This is a repository for learning the topics of Computer Graphics and Related To
 - [[EN: Video Playlist] Computer Graphics (Education 4u)](https://www.youtube.com/playlist?list=PLrjkTql3jnm9cY0ijEyr2fPdwnH-0t8EY)
 - [[EN: Video Playlist] 6.837: Introduction to Computer Graphics (fall 2020)](https://www.youtube.com/playlist?list=PLQ3UicqQtfNuBjzJ-KEWmG1yjiRMXYKhh)
 - [[EN: Video Playlist] Graphics in 5 Minutes Class (Graphics in 5 Minute)](https://www.youtube.com/playlist?list=PLWfDJ5nla8UpwShx-lzLJqcp575fKpsSO)
+- [[EN: Video Playlist] 3D Graphics Overview (Geoffrey Datema)](https://www.youtube.com/playlist?list=PLlWgYfV78e0lRd_k8RXTBYZUlq4q3D62X)
 - [[EN: Video] How do Video Game Graphics Work? (Branch Education)](https://www.youtube.com/watch?v=C8YtdC8mxTU)
 
 ### Rasterization
 
 - [[EN: Video] How Real Time Computer Graphics and Rasterization work (FloatyMonkey)](https://www.youtube.com/watch?v=brDJVEPOeY8)
 - [[EN: Video] The Math Behind Font Rasterization (GamesWithGabe)](https://www.youtube.com/watch?v=LaYPoMPRSlk)
+- [[EN: Video] Rasterizer Algorithm Explaination (HuCE - cpvrLab)](https://www.youtube.com/watch?v=t7Ztio8cwqM)
 
 ### Ray-Tracing
 
