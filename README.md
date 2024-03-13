@@ -83,7 +83,7 @@ This is a repository for learning the topics of Computer Graphics and Related To
 
 ## Physics Concepts
 
-### [Basic Mechanics](https://en.wikipedia.org/wiki/Mechanics)
+### [Motion](https://en.wikipedia.org/wiki/Motion) and [Mechanics](https://en.wikipedia.org/wiki/Mechanics)
 
 - [[TH: Video Playlist] กลศาสตร์วิศวกรรม (หลักสูตรเร่งด่วน) (อ.จา ม.ศิลปากร)](https://www.youtube.com/playlist?list=PL2lvCdUHqjUiC3wxGXEFG1odw0dHGxrgr)
 - [[TH: Video Playlist] BSEN 211 กลศาสตร์วิศวกรรม 1 (Engineering Rajapark)](https://www.youtube.com/playlist?list=PL_3R4p8PzMMrM9LEaQ0QXjwrdgy5P9y6J)
@@ -107,7 +107,13 @@ This is a repository for learning the topics of Computer Graphics and Related To
 
 ### Data Structure and Algorithm
 
+- [[EN: Video Playlist] Data Structures (Neso Academy)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y)
+
 ### Computer Architecture and Organization
+
+- [[EN: Video Playlist] Digital Electronics (Neso Academy)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
+- [[EN: Video Playlist] Computer Organization & Architecture (COA) (Neso Academy)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgLLlzdgiTUKULKJPYc0A4q)
+- [[EN: Video] How does Computer Hardware Work? [3D Animated Teardown] (Branch Education)](https://www.youtube.com/watch?v=d86ws7mQYIg)
 
 ## Computer Graphics Concepts
 
@@ -117,10 +123,12 @@ This is a repository for learning the topics of Computer Graphics and Related To
 - [[EN: Video Playlist] Introduction to Computer Graphics (Cem Yuksel)](https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh)
 - [[EN: Video Playlist] Computer Graphics (Education 4u)](https://www.youtube.com/playlist?list=PLrjkTql3jnm9cY0ijEyr2fPdwnH-0t8EY)
 - [[EN: Video Playlist] 6.837: Introduction to Computer Graphics (fall 2020)](https://www.youtube.com/playlist?list=PLQ3UicqQtfNuBjzJ-KEWmG1yjiRMXYKhh)
+- [[EN: Video] How do Video Game Graphics Work? (Branch Education)](https://www.youtube.com/watch?v=C8YtdC8mxTU)
 
 ### Rasterization
 
 - [[EN: Video] How Real Time Computer Graphics and Rasterization work (FloatyMonkey)](https://www.youtube.com/watch?v=brDJVEPOeY8)
+- [[EN: Video] The Math Behind Font Rasterization (GamesWithGabe)](https://www.youtube.com/watch?v=LaYPoMPRSlk)
 
 ### Ray-Tracing
 
@@ -129,6 +137,17 @@ This is a repository for learning the topics of Computer Graphics and Related To
 ## Tools
 
 ### Programming Langauge: C++
+
+- [[EN: Video Playlist] C++ Programming (Neso Academy)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRh6isJ01MBnbNpV3ZsktSyS)
+- [[EN: Video Playlist] C++ (The Cherno)](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
+
+### Programming Language: Python
+
+- [[EN: Video Playlist] Python Programming (Neso Academy)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiueC_HzwFallNO76hfXBB7)
+
+### Programming Language: Java
+
+- [[EN: Video Playlist] Java Programming (Neso Academy)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5)
 
 ### Library: OpenGL
 
