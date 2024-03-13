@@ -42,6 +42,8 @@ This is a repository for learning the topics of Computer Graphics and Related To
 
 ## Computer Graphics Concepts
 
+### Basic Computer Graphics
+
 ### Rasterization
 
 ### Ray-Tracing
