@@ -126,13 +126,16 @@ This is a repository for learning the topics of Computer Graphics and Related To
 - [[EN: Video Playlist] 6.837: Introduction to Computer Graphics (fall 2020)](https://www.youtube.com/playlist?list=PLQ3UicqQtfNuBjzJ-KEWmG1yjiRMXYKhh)
 - [[EN: Video Playlist] Graphics in 5 Minutes Class (Graphics in 5 Minute)](https://www.youtube.com/playlist?list=PLWfDJ5nla8UpwShx-lzLJqcp575fKpsSO)
 - [[EN: Video Playlist] 3D Graphics Overview (Geoffrey Datema)](https://www.youtube.com/playlist?list=PLlWgYfV78e0lRd_k8RXTBYZUlq4q3D62X)
+- [[EN: Video Playlist] 3D Graphics (pikuma)](https://www.youtube.com/playlist?list=PLYnrabpSIM-97qGEeOWnxZBqvR_zwjWoo)
 - [[EN: Video] How do Video Game Graphics Work? (Branch Education)](https://www.youtube.com/watch?v=C8YtdC8mxTU)
+- [[EN: Video] How Rendering Graphics Works in Games! (TheHappieCat)](https://www.youtube.com/watch?v=cvcAjgMUPUA)
 
 ### Rasterization
 
 - [[EN: Video] How Real Time Computer Graphics and Rasterization work (FloatyMonkey)](https://www.youtube.com/watch?v=brDJVEPOeY8)
 - [[EN: Video] The Math Behind Font Rasterization (GamesWithGabe)](https://www.youtube.com/watch?v=LaYPoMPRSlk)
 - [[EN: Video] Rasterizer Algorithm Explaination (HuCE - cpvrLab)](https://www.youtube.com/watch?v=t7Ztio8cwqM)
+- [[EN: Video] Rasterization | 3D Graphics Overview (Geoffrey Datema)](https://www.youtube.com/watch?v=htSGrJJOtAk)
 
 ### Ray-Tracing
 
@@ -145,12 +148,18 @@ This is a repository for learning the topics of Computer Graphics and Related To
 
 ### Light Transportation
 
+### Physics Engine and Game Engine
+
+- [[EN: Video Playlist] Physics Engine (pikuma)](https://www.youtube.com/playlist?list=PLYnrabpSIM-9t5JNPszbIe4S4Tz81o76A)
+- [[EN: Video Playlist] Game Engine (The Cherno)](https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT)
+
 ## Tools
 
 ### Programming Langauge: C++
 
 - [[EN: Video Playlist] C++ Programming (Neso Academy)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRh6isJ01MBnbNpV3ZsktSyS)
 - [[EN: Video Playlist] C++ (The Cherno)](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
+- [[EN: Video Playlist] C++ & Game Engines (pikuma)](https://www.youtube.com/playlist?list=PLYnrabpSIM--J2A1gsBmgjHfp9g9rb7vu)
 
 ### Programming Language: Python
 
@@ -181,5 +190,10 @@ This is a repository for learning the topics of Computer Graphics and Related To
 ## Additional Topics
 
 ### Game Development
+
+- [[EN: Video Playlist] Math for Game Developers (pikuma)](https://www.youtube.com/playlist?list=PLYnrabpSIM-93QtJmGnQcJRdiqMBEwZ7_)
+- [[EN: Video Playlist] Math for Game Devs (2020) (Freya Holmér)](https://www.youtube.com/playlist?list=PLImQaTpSAdsD88wprTConznD1OY1EfK_V)
+- [[EN: Video Playlist] Math for Game Devs (2022) (Freya Holmér)](https://www.youtube.com/playlist?list=PLImQaTpSAdsArRFFj8bIfqMk2X7Vlf3XF)
+- [[EN: Video Playlist] Shaders for Game Devs (Freya Holmér)](https://www.youtube.com/playlist?list=PLImQaTpSAdsCnJon-Eir92SZMl7tPBS4Z)
 
 ### Virtual Reality (VR), Augmented Reality (AR), Mixed Reality (MR), and eXtended Reality (XR)
