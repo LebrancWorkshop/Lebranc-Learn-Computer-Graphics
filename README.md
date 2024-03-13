@@ -149,7 +149,11 @@ This is a repository for learning the topics of Computer Graphics and Related To
 
 - [[EN: Video Playlist] Java Programming (Neso Academy)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5)
 
-### Library: OpenGL
+### Library: Swing (Java)
+
+### Library: Pygame (Python)
+
+### Library: OpenGL (C++)
 
 ### Library: Vulkan
 
