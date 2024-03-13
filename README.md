@@ -6,7 +6,7 @@ This is a repository for learning the topics of Computer Graphics and Related To
 
 ## Pure Mathematics Concepts
 
-### Linear Algebra
+### [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra)
 
 - [[Video Playlist] Linear Algebra Playlist (Lebranc Convas)](https://www.youtube.com/playlist?list=PLaA8NIuqRmKH9maYY2gcrmh_Kv4IOVlIK)
 - [[TH: Video Playlist] [TUENONG] เมทริกซ์ การดำเนินการของเมทริกซ์ (TUENONG)](https://www.youtube.com/playlist?list=PLChxDsTTTsVRXfqUn4DEY-xH27iaVRyBY)
@@ -20,7 +20,7 @@ This is a repository for learning the topics of Computer Graphics and Related To
 - [[EN: Video Playlist] MIT 18.06SC Linear Algebra, Fall 2011 (MIT OpenCourseWare)](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
 - [[EN: Video Playlist] Linear Algebra (The Bright Side of Mathematics)](https://www.youtube.com/playlist?list=PLBh2i93oe2quLc5zaxD0WHzQTGrXMwAI6)
 
-### Basic Geometry
+### [Basic Geometry](https://en.wikipedia.org/wiki/Geometry)
 
 - [[TH: Video Playlist] [TUENONG] พื้นที่ และ ปริมาตร ม.ต้น (TUENONG)](https://www.youtube.com/playlist?list=PLChxDsTTTsVSD8PUrV_0MYLPqEnN2uGLN)
 - [[TH: Video] สรุปสูตร 11 สูตรพื้นที่ สี่เหลี่ยม สามเหลี่ยม วงกลม ไม่งงแน่นอน | TUENONG (TUENONG)](https://www.youtube.com/watch?v=8ER5qRRpyZs)
@@ -28,7 +28,7 @@ This is a repository for learning the topics of Computer Graphics and Related To
 - [[TH: Video] พื้นที่ผิวและปริมาตร ม.3 (พีระมิด กรวย และทรงกลม) | คณิตศาสตร์ by พี่ปั้น SmartMathPro (SmartMathPro)](https://www.youtube.com/watch?v=q-hWoIjgmqA)
 - [[TH: Video] [TUENONG] ส่วนประกอบ สมบัติ วงกลม ม.3 (TUENONG)](https://www.youtube.com/playlist?list=PLChxDsTTTsVSoQdggkJTj2UFS6EMkx5u-)
 
-### Analytic Geometry
+### [Analytic Geometry](https://en.wikipedia.org/wiki/Analytic_geometry)
 
 - [[TH: Video Playlist] เรขาคณิตวิเคราะห์ ม.4 (OrendaTutor)](https://www.youtube.com/playlist?list=PLbyZhbTzHPayR8p1ilHYLD5YMMh_omHdT)
 - [[TH: Video Playlist] เรขาคณิตวิเคราะห์ ม.4 - แบบฝึกหัด (OrendaTutor)](https://www.youtube.com/playlist?list=PLbyZhbTzHPax3Cwfdz4x_Gt6bqtfkZGqK)
@@ -37,7 +37,7 @@ This is a repository for learning the topics of Computer Graphics and Related To
 - [[EN: Video Playlist] Analytic Geometry | Geometry | Khan Academy (Khan Academy)](https://www.youtube.com/playlist?list=PLSQl0a2vh4HB96cX311IfSJtiieZVN6p5)
 - [[EN: Video] ANALYTIC GEOMETRY - The Basics (A Complilation) (The Maths Stack)](https://www.youtube.com/watch?v=FWcenZstTjw)
 
-### Trigonometry
+### [Trigonometry](https://en.wikipedia.org/wiki/Trigonometry)
 
 - [[TH: Video Playlist] [TUENONG] ตรีโกณมิติ ม.3 (TUENONG)](https://www.youtube.com/playlist?list=PLChxDsTTTsVSIP1GAFNJUvdMcB8-To0uz)
 - [[TH: Video Playlist] [TUENONG] ตรีโกณมิติ วงกลมหนึ่งหน่วย ม.5 (TUENONG)](https://www.youtube.com/playlist?list=PLChxDsTTTsVQOICArvJnamsB8lvwAIVpt)
@@ -63,19 +63,19 @@ This is a repository for learning the topics of Computer Graphics and Related To
 - [[EN: Video Playlist] Differential Geometry (Undergradudate Mathematics)](https://www.youtube.com/playlist?list=PLoWHl5YajIf7NzvxmGH7ch6d6qDSCv4wj)
 - [[EN: Video Playlist] Introduction to Differential Geometry (Fakezord)](https://www.youtube.com/playlist?list=PLRtC1Xj57uWWJaUgjdo7p4WQS2OFpsiaK)
 
-### Numerical Methods
+### [Numerical Methods](https://en.wikipedia.org/wiki/Numerical_method)
 
-### Mathematical Analysis and Calculus
+### [Mathematical Analysis](https://en.wikipedia.org/wiki/Mathematical_analysis) and [Calculus](https://en.wikipedia.org/wiki/Calculus)
 
-### Discrete Mathematics
+### [Discrete Mathematics](https://en.wikipedia.org/wiki/Discrete_mathematics)
 
-### Graph Theory
+### [Graph Theory](https://en.wikipedia.org/wiki/Graph_theory)
 
 ## Physics Concepts
 
-### Basic Mechanics
+### [Basic Mechanics](https://en.wikipedia.org/wiki/Mechanics)
 
-### Light
+### [Light](https://en.wikipedia.org/wiki/Light)
 
 ## Computer Science Concepts
 
